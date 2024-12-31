@@ -1,9 +1,8 @@
 # BMI Calculator 
 
-## Our Goal
+A simple application to calculate Body Mass Index (BMI) based on user input for weight and height.
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
-
-## What you will create
-
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by  It will be a multi screen app with simple functionality but full-on custom styling. 
+##Features
+Calculate BMI using metric or imperial units.
+Display BMI category (e.g., Underweight, Normal, Overweight).
+Responsive design for easy use on mobile and desktop devices.
